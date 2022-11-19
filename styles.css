@@ -11,8 +11,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: linear-gradient(#0f0c29,#302b63,#24243e);
-}
-.wrapper{
+}.wrapper{
   padding: 40px;
   border-radius: 10px;
   background: linear-gradient(#C9D6FF, #E2E2E2);
